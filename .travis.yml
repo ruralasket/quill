@@ -8,7 +8,7 @@ dist: trusty
 cache:
   directories:
     - node_modules
-env:
+env:iuyhuy
   matrix:
     - BROWSER=mac-chrome-latest
     - BROWSER=mac-firefox-latest
